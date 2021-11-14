@@ -1,5 +1,5 @@
 # PhoneBook
-live link  -   {https://sharp-carson-e10502.netlify.app}
+live link  -   https://sharp-carson-e10502.netlify.app
 
 
 Implement a phonebook using trie trees as a data structure in C language.
