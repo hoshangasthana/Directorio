@@ -1,4 +1,5 @@
 # PhoneBook
+live link  -   \href{https://sharp-carson-e10502.netlify.app}
 Implement a phonebook using trie trees as a data structure in C language.
 
 Tries were first described by René de la Briandais in 1959.The term trie was coined two years later by Edward Fredkin. Data structure used to implement phonebook in C language is trie trees. In computer science, a trie, also called digital tree and sometimes radix tree or prefix tree (as they can be searched by prefixes), is a kind of search tree—an ordered tree data structure that is used to store a dynamic set or associative array where the keys are usually strings. A Trie is a special data structure used to store strings that can be visualized like a graph. It consists of nodes and edges. Each node consists of at max 26 children and edges connect each parent node to its children. These 26 pointers are nothing but pointers for each of the 26 letters of the English alphabet A separate edge is maintained for every edge.
